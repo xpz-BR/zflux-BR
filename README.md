@@ -15,6 +15,7 @@
 
 ---
 ### 💻 Projetos em Destaque
+
 Confira meus projetos para demonstrar raciocínio lógico em Python:
 ➡️ [Gerador de Senhas Aleatórias (random-password-maker)](https://github.com/zflux-BR/random-password-maker)
 
