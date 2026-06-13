@@ -41,5 +41,5 @@ Sistema de Pokédex executado pelo terminal, com login, menu interativo, cadastr
 
 ## 📬 Contato
 
-* **E-mail:** [vitoreoto1910@gmail.com](mailto:vitoreoto1910@gmail.com)
+* **E-mail:** [vitor.santos041008@gmail.com](mailto:vitor.santos041008@gmail.com)
 * **GitHub:** @xpz-BR
