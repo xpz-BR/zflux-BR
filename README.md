@@ -11,7 +11,7 @@
 | **Linguagem de Foco** | Python (Lógica de Programação) |
 | **Sistemas Operacionais** | Linux (**Arch** e **Ubuntu**), Windows |
 | **Web** | HTML5 e CSS3 (Básico) |
-| **Idiomas** | Inglês Intermediário Certificado (B1 - EF SET) |
+| **Idiomas** | Inglês Intermediário Avançado | Espanhol Básico | Português fluente |
 
 ---
 ### 💻 Projeto em Destaque
