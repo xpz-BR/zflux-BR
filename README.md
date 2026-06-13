@@ -16,9 +16,9 @@
 ---
 ### 💻 Projetos em Destaque
 Confira meus projetos para demonstrar raciocínio lógico em Python:
-➡️ **[Gerador de Senhas Aleatórias (random-password-maker)](https://github.com/zflux-BR/random-password-maker)**
+➡️ [Gerador de Senhas Aleatórias (random-password-maker)](https://github.com/zflux-BR/random-password-maker)
 
-➡️ **[Pokédex Python (pokedex-python)](https://github.com/xpz-BR/pokedex-python)**
+➡️ [Pokédex Python (pokedex-python)](https://github.com/xpz-BR/pokedex-python)
 Sistema de Pokédex em Python executado pelo terminal, com login, menu interativo, cadastro de Pokémon, validação contra duplicados e contagem automática de Pokémon registrados.
 ---
 
