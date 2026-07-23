@@ -1,41 +1,16 @@
-# Olá, eu sou o Vitor Augusto (xpz-BR)! 👋
+# Hi, I'm Vitor 👋
 
-Sou estudante de Tecnologia da Informação e apaixonado por tecnologia, programação e sistemas. Atualmente estou aprofundando meus conhecimentos em Python e buscando oportunidades de estágio ou menor aprendiz para iniciar minha carreira na área de TI.
+17-year-old Brazilian developer.
 
----
+Currently learning:
 
-## 💡 Minhas Habilidades e Estudos
+- Python
+- Godot
+- Linux
+- Cybersecurity
 
-| Área                      | Conhecimento                                                           |
-| :------------------------ | :--------------------------------------------------------------------- |
-| **Linguagem de Foco**     | Python (Lógica de Programação)                                         |
-| **Sistemas Operacionais** | Linux (Arch Linux e Ubuntu), Windows                                   |
-| **Web**                   | HTML5 e CSS3 (Básico)                                                  |
-| **Idiomas**               | Português (Nativo), Inglês (Intermediário Avançado), Espanhol (Básico) |
+Current Project
 
----
+🎮 Fiel Escudeiro
 
-## 💻 Projetos em Destaque
-
-Confira alguns projetos desenvolvidos durante meus estudos em Python:
-
-➡️ **[Gerador de Senhas Aleatórias (random-password-maker)](https://github.com/xpz-BR/random-password-maker)**
-
-Gerador de senhas aleatórias desenvolvido em Python, com personalização de comprimento e validação de entrada.
-
----
-
-## 📚 Atualmente Estudando
-
-* Python
-* Lógica de Programação
-* Estruturas de Dados
-* HTML e CSS
-* Linux
-
----
-
-## 📬 Contato
-
-* **E-mail:** [vitor.santos041008@gmail.com](mailto:vitor.santos041008@gmail.com)
-* **GitHub:** @xpz-BR
+Building an RPG where your companion is truly alive.
