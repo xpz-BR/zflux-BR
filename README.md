@@ -23,10 +23,6 @@ Confira alguns projetos desenvolvidos durante meus estudos em Python:
 
 Gerador de senhas aleatórias desenvolvido em Python, com personalização de comprimento e validação de entrada.
 
-➡️ **[Pokédex Python (pokedex-python)](https://github.com/xpz-BR/pokedex-python)**
-
-Sistema de Pokédex executado pelo terminal, com login, menu interativo, cadastro de Pokémon, validação contra duplicados e contagem automática de registros.
-
 ---
 
 ## 📚 Atualmente Estudando
